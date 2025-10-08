@@ -90,8 +90,13 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 Square Wave :
 
 
+![SPP](https://github.com/user-attachments/assets/aadfb9a9-34ed-4bae-b16c-fe8f19ebfc4d)
+
+
 
 Sawtooth Wave: 
+
+![GP](https://github.com/user-attachments/assets/2115575d-454b-4b4f-9254-61ee2c573479)
 
 
 
